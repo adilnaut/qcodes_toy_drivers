@@ -1,0 +1,16 @@
+## This is the qcodes documentation study log
+[x] Instrument page
+	- https://qcodes.github.io/Qcodes/api/instrument/index.html
+[x] Parameter page 
+	- https://qcodes.github.io/Qcodes/api/parameters/index.html
+[x] Simple driver ParameterWithSetpoints
+[.] Driver: Dual ParameterWithSetpoints Example 
+[ ] Writing Instrument Drivers:
+	- https://qcodes.github.io/Qcodes/examples/writing_drivers/Instruments.html
+	[ ] Creating QCoDeS instrument drivers
+		- https://qcodes.github.io/Qcodes/examples/writing_drivers/Creating-Instrument-Drivers.html
+	[ ] Simulated PyVISA instruments
+		- https://qcodes.github.io/Qcodes/examples/writing_drivers/Creating-Simulated-PyVISA-Instruments.html
+	[ ] Abstract Instruments and parameters
+		- https://qcodes.github.io/Qcodes/examples/writing_drivers/abstract_instruments.html
+
