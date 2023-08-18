@@ -5,13 +5,6 @@
 	- https://qcodes.github.io/Qcodes/api/parameters/index.html
 [x] Simple driver ParameterWithSetpoints
 [x] Driver: Dual ParameterWithSetpoints Example 
-[ ] 15 minutes to QCoDeS
-    - https://qcodes.github.io/Qcodes/examples/15_minutes_to_QCoDeS.html
-[ ] Station 
-    - https://qcodes.github.io/Qcodes/examples/Station.html
-[x] Complex Numbers
-[x] MultiParameter
-
 [ ] Writing Instrument Drivers:
 	- https://qcodes.github.io/Qcodes/examples/writing_drivers/Instruments.html
 	[ ] Creating QCoDeS instrument drivers
